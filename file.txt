@@ -1,7 +1,13 @@
 =====
 FOODS
 =====
-
 Chicken Karahi
 Bhindi
 Mutton Karahi
+
+======
+Movies
+======
+Lion
+Tamasha
+Transformers
